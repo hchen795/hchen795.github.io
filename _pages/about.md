@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>University of Wisconsin-Madison</a> 
+subtitle: <a href='https://www.wisc.edu/'>University of Wisconsin-Madison</a> 
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address:
     <p>1275E Medical Sciences Center</p>
     <p>Madison, Wisconsin, 53705</p>
 
