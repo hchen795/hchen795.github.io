@@ -2,16 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Northwestern University</a> 
+subtitle: <a href='#'>University of Wisconsin-Madison</a> 
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mudd Library 3016</p>
-    <p>2233 Tech Drive</p>
-    <p>Evanston, Illinois, 60208</p>
+    <p>1275E Medical Sciences Center</p>
+    <p>Madison, Wisconsin, 53705</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
