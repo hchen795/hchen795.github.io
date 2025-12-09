@@ -2,96 +2,73 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Hui Chen
+    - name: Email
+      value: hchen795@wisc.edu
+    - name: Address
+      value: 6544 Morgridge Hall, Madison, WI, 53705
+    - name: Research Interests
+      value: Efficient ML for Sequential Data, Time-Series Forecasting, Probabilistic & Generative Modeling, Statistical Learning for Neuroscience (EEG/MRI)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate in Statistics
+      institution: University of Wisconsin–Madison, USA
+      year: Sept 2022 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Prof. Vikas Singh
+        - Coursework: Mathematical Statistics, Probability Theory I & II, Nonlinear Optimization, Real Analysis, Applied Time Series Analysis, Computational Mathematics, Brownian Motion & Stochastic Calculus, Bayesian Decision & Control
+    - title: B.S. in Statistics
+      institution: Renmin University of China, Beijing, China
+      year: Sept 2018 – May 2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.95/4.00 (Rank: 2/133)
+        - Awards: National Scholarship (2020, 2021, top 0.2%)
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Single-Step Operator Learning for Conditioned Time-Series Diffusion Models
+      authors: Hui Chen, Vikas Singh
+      year: NeurIPS 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed a single-step operator learning framework that reduces diffusion sampling complexity for time-series models by 20× while maintaining predictive accuracy.
+      links:
+        - name: Paper
+          url: https://openreview.net/forum?id=ONUZ08OAZL
+        - name: Code
+          url: https://github.com/vsingh-group/SSOL-timeseries
+
+    - title: SimpleTM: A Simple Baseline for Multivariate Time Series Forecasting
+      authors: Hui Chen, Viet Luong, Lopamudra Mukherjee, Vikas Singh
+      year: ICLR 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Proposed a lightweight multivariate time-series model using wavelet tokenization and geometric attention for multi-scale dependency modeling.
+      links:
+        - name: Paper
+          url: https://openreview.net/forum?id=oANkBaVci5
+        - name: Code
+          url: https://github.com/vsingh-group/SimpleTM
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Contrastive Active Learning Under Class Distribution Mismatch
+      authors: Du Pan, Hui Chen, Suyun Zhao, Shuwen Chai, Hong Chen, Cuiping Li
+      year: TPAMI 2023
       description:
+        - Studied contrastive coding for active learning with imbalanced class distribution.
+      links:
+        - name: Paper
+          url: https://doi.org/10.1109/TPAMI.2022.3188807
+        - name: Code
+          url: https://github.com/RUC-DWBI-ML/CCAL
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Contrastive Coding for Active Learning Under Class Distribution Mismatch
+      authors: Du Pan, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
+      year: ICCV 2021
+      description:
+        - First work to explore contrastive active learning under major distribution shifts.
+      links:
+        - name: Paper
+          url: https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html
+        - name: Code
+          url: https://github.com/RUC-DWBI-ML/CCAL
