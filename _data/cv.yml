@@ -32,8 +32,6 @@
     - title: Single-Step Operator Learning for Conditioned Time-Series Diffusion Models
       authors: Hui Chen, Vikas Singh
       year: NeurIPS 2025
-      description:
-        - "Developed a single-step operator learning framework that reduces diffusion sampling complexity for time-series models by 20× while maintaining predictive accuracy."
       links:
         - name: Paper
           url: https://openreview.net/forum?id=ONUZ08OAZL
@@ -43,8 +41,6 @@
     - title: SimpleTM: A Simple Baseline for Multivariate Time Series Forecasting
       authors: Hui Chen, Viet Luong, Lopamudra Mukherjee, Vikas Singh
       year: ICLR 2025
-      description:
-        - "Proposed a lightweight multivariate time-series model using wavelet tokenization and geometric attention for multi-scale dependency modeling."
       links:
         - name: Paper
           url: https://openreview.net/forum?id=oANkBaVci5
@@ -54,8 +50,6 @@
     - title: Contrastive Active Learning Under Class Distribution Mismatch
       authors: Du Pan, Hui Chen, Suyun Zhao, Shuwen Chai, Hong Chen, Cuiping Li
       year: TPAMI 2023
-      description:
-        - "Studied contrastive coding for active learning with imbalanced class distribution."
       links:
         - name: Paper
           url: https://doi.org/10.1109/TPAMI.2022.3188807
@@ -65,8 +59,6 @@
     - title: Contrastive Coding for Active Learning Under Class Distribution Mismatch
       authors: Du Pan, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
       year: ICCV 2021
-      description:
-        - "First work to explore contrastive active learning under major distribution shifts."
       links:
         - name: Paper
           url: https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html
