@@ -17,14 +17,14 @@
       institution: University of Wisconsin–Madison, USA
       year: Sept 2022 – Present
       description:
-        - Advisor: Prof. Vikas Singh
-        - Coursework: Mathematical Statistics, Probability Theory I & II, Nonlinear Optimization, Real Analysis, Applied Time Series Analysis, Computational Mathematics, Brownian Motion & Stochastic Calculus, Bayesian Decision & Control
+        - "Advisor: Prof. Vikas Singh"
+        - "Coursework: Mathematical Statistics, Probability Theory I & II, Nonlinear Optimization, Real Analysis, Applied Time Series Analysis, Computational Mathematics, Brownian Motion & Stochastic Calculus, Bayesian Decision & Control"
     - title: B.S. in Statistics
       institution: Renmin University of China, Beijing, China
       year: Sept 2018 – May 2022
       description:
-        - GPA: 3.95/4.00 (Rank: 2/133)
-        - Awards: National Scholarship (2020, 2021, top 0.2%)
+        - "GPA: 3.95/4.00 (Rank: 2/133)"
+        - "Awards: National Scholarship (2020, 2021, top 0.2%)"
 
 - title: Publications
   type: time_table
@@ -33,7 +33,7 @@
       authors: Hui Chen, Vikas Singh
       year: NeurIPS 2025
       description:
-        - Developed a single-step operator learning framework that reduces diffusion sampling complexity for time-series models by 20× while maintaining predictive accuracy.
+        - "Developed a single-step operator learning framework that reduces diffusion sampling complexity for time-series models by 20× while maintaining predictive accuracy."
       links:
         - name: Paper
           url: https://openreview.net/forum?id=ONUZ08OAZL
@@ -44,7 +44,7 @@
       authors: Hui Chen, Viet Luong, Lopamudra Mukherjee, Vikas Singh
       year: ICLR 2025
       description:
-        - Proposed a lightweight multivariate time-series model using wavelet tokenization and geometric attention for multi-scale dependency modeling.
+        - "Proposed a lightweight multivariate time-series model using wavelet tokenization and geometric attention for multi-scale dependency modeling."
       links:
         - name: Paper
           url: https://openreview.net/forum?id=oANkBaVci5
@@ -55,7 +55,7 @@
       authors: Du Pan, Hui Chen, Suyun Zhao, Shuwen Chai, Hong Chen, Cuiping Li
       year: TPAMI 2023
       description:
-        - Studied contrastive coding for active learning with imbalanced class distribution.
+        - "Studied contrastive coding for active learning with imbalanced class distribution."
       links:
         - name: Paper
           url: https://doi.org/10.1109/TPAMI.2022.3188807
@@ -66,7 +66,7 @@
       authors: Du Pan, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
       year: ICCV 2021
       description:
-        - First work to explore contrastive active learning under major distribution shifts.
+        - "First work to explore contrastive active learning under major distribution shifts."
       links:
         - name: Paper
           url: https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html
